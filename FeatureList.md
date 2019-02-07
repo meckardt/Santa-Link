@@ -24,11 +24,11 @@
 ###	Santa Network 
 *	Send out “Pulse” query to network siblings (initial depth 10)
 *	  Receive pulses from siblings
-* 	Decrement the depth
-* 	Send the pulse
-* 	Receive pulse result
-* 	Combine pulse element results
-* 	Return the result of pulse
+*	  Decrement the depth
+*   Send the pulse
+*   Receive pulse result
+*   Combine pulse element results
+*   Return the result of pulse
 *	Host installer for new child nodes (may be link to website)
 *	Download installer from Parent node (link from Santa Contact email) [Use SSH]
 *	Establish Santa-Link Node
